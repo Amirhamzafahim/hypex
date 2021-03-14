@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Hypex Game Ui
 ![Screenshot_617](https://user-images.githubusercontent.com/62903833/111064138-9efd3d00-84dc-11eb-875d-35bb21fa78e0.png)
 
 
